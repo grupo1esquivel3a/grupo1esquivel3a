@@ -4,5 +4,5 @@
 - 🌱 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos...
 - 💬 Estou me desenvolvendo na linguagem JavaScript...
 
-### *Vocẽ pode entrar em contato comigo* 📫
+Vocẽ pode entrar em contato comigo 📫
 grupo1esquivel3a.alura@gamil.com
